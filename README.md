@@ -1,4 +1,4 @@
-# **Coffee Shopee Analysis**
+# **Coffee Shope Analysis**
 A comprehensive data analytics project on Coffee Shope Sales using **MySQL for database management and Power BI for data visualization and validation**
 ## Table Of Content
 
@@ -345,6 +345,6 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 - Month-over-month changes in KPIs reveal a consistent increase, with the exception of February, which shows a dip due to fewer days in the month.
 - **Sales Drop After 1 PM**: There’s a significant drop in sales **after 1 PM**. This information is crucial for staffing and inventory management.
 
-## Recomendations
+## Recommendations
 - **Promote Tea Sales:** Implement marketing strategies to boost tea sales, as it’s currently underperforming.
 - **Off-Peak Promotions:** Consider promotional activities during low-sales hours to increase revenue throughout the day.
