@@ -337,7 +337,7 @@ ORDER BY
 ![TO GET SALES FOR ALL HOURS FOR MONTH OF MAY](https://github.com/user-attachments/assets/93c6f456-40d7-4df4-8785-cab101745e1b)
 
 ## Power BI Dashboard
-You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMDcxMDM1NjEtZjU4Ny00NmExLThjYjMtNzcwNWMxODRkOTU3IiwidCI6ImZjZjMyMWUxLTU1OGQtNGQzMi1iZWI1LTk2MDAwNDRhZDBjNiJ9)
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiODg3YzgzN2MtYmE2Ny00MjQwLWIzYTEtODAzNWQwZDMwNjQ1IiwidCI6ImZjZjMyMWUxLTU1OGQtNGQzMi1iZWI1LTk2MDAwNDRhZDBjNiJ9)
 
 ## Key Insights
 
